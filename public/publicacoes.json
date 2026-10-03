@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "astronomia-e-ciencia-cidada-no-npca",
+    "title": "Astronomia e ciência cidadã no NPCA",
+    "date": "2026-09-30",
+    "category": "Astronomia",
+    "author": "NPCA",
+    "excerpt": "Como a formação em astronomia e a análise de dados aproximam estudantes da pesquisa científica.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "A ciência cidadã abre caminhos para que estudantes participem de investigações reais. No Núcleo de Pesquisa e Caça de Asteroides, o interesse pela astronomia se transforma em aprendizado colaborativo e contato com métodos de pesquisa."
+      },
+      {
+        "type": "heading",
+        "text": "Aprender a investigar"
+      },
+      {
+        "type": "paragraph",
+        "text": "A análise de imagens astronômicas é uma das atividades que aproximam os participantes do trabalho científico. Com formação e orientação, os estudantes desenvolvem habilidades para observar dados, registrar resultados e compartilhar descobertas."
+      },
+      {
+        "type": "heading",
+        "text": "Pesquisa feita em colaboração"
+      },
+      {
+        "type": "paragraph",
+        "text": "O modelo multi-institucional do NPCA conecta estudantes com diferentes experiências. Essa troca fortalece a aprendizagem e cria um espaço para explorar astronomia, tecnologia e análise de dados em conjunto."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Formação em astronomia e análise de dados",
+          "Participação estudantil em atividades de pesquisa",
+          "Colaboração entre diferentes instituições de ensino"
+        ]
+      }
+    ]
+  }
+]
